@@ -1,5 +1,4 @@
 # Aadhya Patel
-
 **Business Analyst · Power BI · Data Analytics**  
 BBA Business Analytics @ V.M. Patel College of Management Studies, Ganpat University
 
@@ -7,6 +6,13 @@ BBA Business Analytics @ V.M. Patel College of Management Studies, Ganpat Univer
 
 I build dashboards, automate reports, and turn messy data into structured decisions.  
 9.3 CGPA. 2nd place in a Power BI competition. Hands-on experience at Wood 360 — ETL workflows, DAX modeling, and automated reporting.
+
+---
+
+## 🌐 Socials
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aadhyapatel)
+[![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/Aadhya-Patel-s-Portfolio-747f85f9826c42638cbb5e2384817905)
 
 ---
 
@@ -37,9 +43,10 @@ I build dashboards, automate reports, and turn messy data into structured decisi
 ![SPSS](https://img.shields.io/badge/SPSS-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
 ![AMOS](https://img.shields.io/badge/AMOS-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
 ![NVivo](https://img.shields.io/badge/NVivo-7B2D8B?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgo=&logoColor=white)
+
 ---
 
-## What's here
+## 📁 What's here
 
 | Project | Tools | Description |
 |---|---|---|
@@ -50,19 +57,8 @@ I build dashboards, automate reports, and turn messy data into structured decisi
 
 ---
 
-## Currently building
+## 🚀 Currently building
 
 - Expanding Python skills toward end-to-end analysis pipelines
 - Business Analytics capstone — applying regression, ANOVA, and logistic modeling to real datasets
 - Targeting **Business Analyst / Data Analyst** roles (fresher) — open to opportunities
-
----
-
-## 🌐 Socials
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aadhyapatel)
-[![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/Aadhya-Patel-s-Portfolio-747f85f9826c42638cbb5e2384817905)
-
----
-
-
