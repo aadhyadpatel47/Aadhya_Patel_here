@@ -1,11 +1,12 @@
 # Aadhya Patel
+
 **Business Analyst · Power BI · Data Analytics**  
 BBA Business Analytics @ V.M. Patel College of Management Studies, Ganpat University
 
 ---
 
-I build dashboards, automate reports, and turn messy data into structured decisions.  
-9.3 CGPA. 2nd place in a Power BI competition. Hands-on experience at Wood 360 — ETL workflows, DAX modeling, and automated reporting.
+I build Power BI dashboards that turn messy business data into structured decisions — furniture performance, delivery efficiency, and AI productivity insights. Interned at Wood 360 where I built end-to-end ETL workflows, DAX models, and automated reporting pipelines.  
+9.3 CGPA. 2nd Place in Power BI Competition. Certified by IBM, Microsoft, and Google in Data Analytics.
 
 ---
 
@@ -18,47 +19,66 @@ I build dashboards, automate reports, and turn messy data into structured decisi
 
 ## 💻 Tech Stack
 
-### 🐍 Programming & Analytics
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SAS](https://img.shields.io/badge/SAS-1572B6?style=for-the-badge&logo=sas&logoColor=white)
-![R](https://img.shields.io/badge/R-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
-
-### 🗄️ Database
-![MySQL](https://img.shields.io/badge/SQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
-### 📊 BI & Visualization
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-
-### 🔧 Data & Modeling
-![Power Query](https://img.shields.io/badge/Power%20Query-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![DAX](https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-
-### 🔬 Statistical Tools
-![SPSS](https://img.shields.io/badge/SPSS-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
-![AMOS](https://img.shields.io/badge/AMOS-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
-![NVivo](https://img.shields.io/badge/NVivo-7B2D8B?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgo=&logoColor=white)
+| Category | Tools |
+|---|---|
+| **Programming & Analytics** | Python · Pandas · NumPy · Matplotlib · Seaborn · SAS · R |
+| **Database** | SQL |
+| **BI & Visualization** | Power BI · Tableau · Excel |
+| **Data & Modeling** | Power Query (M) · DAX · Data Cleaning · Data Modelling |
+| **Statistical Tools** | SPSS · AMOS · NVivo |
+| **Certifications** | IBM Data Analyst · Google Data Analytics · Microsoft Certified |
 
 ---
 
-## 📁 What's here
+## 📁 Featured Projects
 
-| Project | Tools | Description |
-|---|---|---|
-| Delivery Analytics Dashboard | Power BI · DAX · ETL | End-to-end reporting pipeline built at Wood 360 |
-| AI Tools & Productivity Study | SPSS · Excel · Python | n=388, regression + reliability analysis, North Gujarat |
-| Swiggy Delivery SQC Analysis | Power BI · Excel | Statistical Quality Control — control charts & process analysis |
-| Python Data Cleaning Practice | Python · Pandas | Notebooks covering `fillna`, `dropna`, `interpolate`, feature engineering |
+### [Insight-Flow](https://github.com/aadhyadpatel47/Insight-Flow)
+Full-stack data exploration tool — upload any dataset and instantly generate visual insights with zero setup.
+
+- **Tech:** Python · Flask · Pandas · NumPy · Chart.js · Vanilla JS
+- Built auto column profiling that classifies numeric, categorical, and datetime fields and computes stats, outliers, and distributions in one pass.
+- Includes dynamic chart generation, data quality checks, and export-ready summary reports.
+
+---
+
+### [Furniture Business Performance Insights Dashboard](https://github.com/aadhyadpatel47/Furniture-Business-Performance-Insights-Dashboard)
+Business performance dashboard built during the Wood 360 internship to replace manual reporting workflows.
+
+- **Tech:** Power BI · DAX · Power Query
+- Built end-to-end ETL pipeline — cleaned and transformed raw furniture sales data into a structured model.
+- Designed DAX measures to track revenue trends, product performance, and category-level profitability.
+
+---
+
+### [AI Adoption & Productivity Impact Dashboard](https://github.com/aadhyadpatel47/AI-Adoption-Productivity-Impact-Dashboard)
+Interactive Power BI dashboard visualizing findings from the AI tools and student productivity research study.
+
+- **Tech:** Power BI · DAX · Power Query · Python
+- Translated survey data (n=388) into visual intelligence — segmented by adoption level, tool type, and productivity outcome.
+- Supported data-driven interpretation of regression and reliability analysis results.
+
+---
+
+### [Measuring the Impact of AI Tools on Students' Productivity](https://github.com/aadhyadpatel47/Measuring-the-Impact-of-AI-Tools-on-Students-Productivity)
+Primary research study measuring how AI tool adoption affects academic productivity among students in North Gujarat.
+
+- **Tech:** SPSS · Python · Excel
+- Collected and analyzed n=388 survey responses using regression analysis, reliability testing (Cronbach's Alpha), and descriptive statistics.
+- Identified key predictors of productivity gain and validated the measurement model using factor analysis.
+
+---
+
+### [Six Sigma SQC Analysis — Swiggy Delivery Time Optimization](https://github.com/aadhyadpatel47/Six-Sigma-SQC-Analysis-Swiggy-Delivery-Time-Optimization)
+Statistical process control analysis applied to Swiggy delivery time data.
+
+- **Tech:** Power BI · Excel · SQC
+- Built control charts (X-bar, R-chart) to monitor delivery time process stability.
+- Conducted process capability analysis to identify out-of-control conditions and recommend optimization areas.
 
 ---
 
 ## 🚀 Currently building
 
 - Expanding Python skills toward end-to-end analysis pipelines
-- Business Analytics capstone — applying regression, ANOVA, and logistic modeling to real datasets
-- Targeting **Business Analyst / Data Analyst** roles (fresher) — open to opportunities
+- Business Analytics capstone — regression, ANOVA, and logistic modeling on real datasets
+- Targeting **Business Analyst / Power BI Developer / Data Analyst** roles (fresher) — open to opportunities
