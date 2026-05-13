@@ -33,12 +33,10 @@ I build Power BI dashboards that turn messy business data into structured decisi
 ## 📁 Featured Projects
 
 ### [Insight-Flow](https://github.com/aadhyadpatel47/Insight-Flow)
-Full-stack data exploration tool — upload any dataset and instantly generate visual insights with zero setup.
-
-- **Tech:** Python · Flask · Pandas · NumPy · Chart.js · Vanilla JS
-- Built auto column profiling that classifies numeric, categorical, and datetime fields and computes stats, outliers, and distributions in one pass.
-- Includes dynamic chart generation, data quality checks, and export-ready summary reports.
-
+Business analysis engine — upload any CSV or Excel dataset and instantly generate domain-aware KPI trends, RFM segments, anomaly alerts, and a downloadable report with zero setup.
+- Tech: Python · FastAPI · Pandas · NumPy · Matplotlib · Seaborn · Vanilla JS
+- Built domain detection that automatically classifies datasets as Sales, Marketing, Finance, or HR — and generates written narrative summaries with business-specific recommendations for each analysis type.
+- Includes 12 analysis modes (KPI trends, RFM segmentation, Pareto, Funnel, Cohort, Velocity, Growth Accounting, Period Comparison and more), all chart types (bar, line, donut, scatter, histogram, box plot), and anomaly detection with plain-English alert descriptions.
 ---
 
 ### [Furniture Business Performance Insights Dashboard](https://github.com/aadhyadpatel47/Furniture-Business-Performance-Insights-Dashboard)
