@@ -49,11 +49,11 @@ Business performance dashboard built during the Wood 360 internship to replace m
 ---
 
 ### [AI Adoption & Productivity Impact Dashboard](https://github.com/aadhyadpatel47/AI-Adoption-Productivity-Impact-Dashboard)
-Interactive Power BI dashboard visualizing findings from the AI tools and student productivity research study.
+Interactive Power BI dashboard analyzing AI tool adoption and productivity impact across 1,000 users, industries, and experience levels.
 
-- **Tech:** Power BI · DAX · Power Query · Python
-- Translated survey data (n=388) into visual intelligence — segmented by adoption level, tool type, and productivity outcome.
-- Supported data-driven interpretation of regression and reliability analysis results.
+Tech: Power BI · DAX · Power Query · Excel
+Translated multi-sector usage data (n=1K) into visual intelligence — segmented by AI tool, sector, and productivity outcome.
+Surfaced that only 24.4% of users achieve high productivity impact, with Gemini and GitHub Copilot leading on performance while Claude leads on adoption.
 
 ---
 
